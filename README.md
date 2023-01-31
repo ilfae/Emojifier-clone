@@ -1,4 +1,4 @@
-# Emojifier
+# Emojifier-frmsaul
 You can use Emojifier to turn your images into beautiful "Emoji Mosaics".
 
 The Emojifier works as follows: Images are divided to a grid, and finds the "best fit" emoji for each square in the grid using an Octree 🐙🌲.
